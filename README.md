@@ -2,6 +2,8 @@
 This program creates a virtual com port and listens to incoming connection.
 All required dependencies are taken care by pipenv.
 
+![alt text](https://github.com/sasiso/test/blob/master/demo.png)
+
 # How to run
  
  - First install pipenv if not already installed ">python -m pip install pipenv"
